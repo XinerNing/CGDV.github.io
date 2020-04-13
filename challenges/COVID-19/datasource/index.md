@@ -65,48 +65,57 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 
     
 ## COVID-19 Case Data  
+
 <details>
 <summary>
 <a href="https://github.com/CSSEGISandData/COVID-19">Johns Hopkins Coronavirus Dashboard Dataset</a>: Country, foreign provinces, and U.S. county case statistics</summary>
 <p>
+<ul>
 
-* Detailed Description: Contains recovered, infected, and fatility case numbers for all countries, province-level for many countries, and county level for the US. Data is sourced from a variety of health organizations around the world.
-* Data Resolution: Global (some province level), U.S. County
-* Frequency of update: Daily
-* Download Method: Download / Clone
-  * File type: CSV
-* Cleaning requirements: Minimal
-* Link: https://github.com/CSSEGISandData/COVID-19
+<li> Detailed Description: Contains recovered, infected, and fatility case numbers for all countries, province-level for many countries, and county level for the US. Data is sourced from a variety of health organizations around the world.</li>
+<li> Data Resolution: Global (some province level), U.S. County</li>
+<li> Frequency of update: Daily </li>
+<li> Download Method: Download / Clone </li>
+<ul>
+  <li> File type: CSV </li></ul>
+<li> Cleaning requirements: Minimal </li>
+<li> Link: <a href=https://github.com/CSSEGISandData/COVID-19>https://github.com/CSSEGISandData/COVID-19></a></li>
 </p>
 </details>
+
 
 <details>
 <summary>
 <a href="https://github.com/nychealth/coronavirus-data">New York City Public Health Department</a>: Cases, hospitalizations, deaths by date of diagnosis as well as cases by ZIP code</summary>
 <p>
+<ul>
 
-* Detailed Description: There are a lot of files in the github repo, however only 2 datasets that I think valuable (case-hosp-death.csv and tests-by-zcta.csv). The case-hosp-death accounts cases by date of diagnosis, hospitalized and deaths in NYC hospitals. The latter dataset is cumulative positive cases per zip code
-* Data Resolution: U.S., U.S. ZIP
-* Frequency of update: Daily
-* Download Method: Download / Clone
-  * File type: CSV
-* Cleaning requirements: Minimal
-* Link: https://github.com/nychealth/coronavirus-data
+<li> Detailed Description: There are a lot of files in the github repo, however only 2 datasets that I think valuable (case-hosp-death.csv and tests-by-zcta.csv). The case-hosp-death accounts cases by date of diagnosis, hospitalized and deaths in NYC hospitals. The latter dataset is cumulative positive cases per zip code</li>
+<li> Data Resolution: U.S., U.S. ZIP</li>
+<li> Frequency of update: Daily </li>
+<li> Download Method: Download / Clone </li>
+<ul>
+  <li> File type: CSV </li></ul>
+<li> Cleaning requirements: Minimal </li>
+<li> Link: <a href=https://github.com/nychealth/coronavirus-data>https://github.com/nychealth/coronavirus-data></a></li>
 </p>
 </details>
+
 
 <details>
 <summary>
 <a href="https://github.com/nytimes/covid-19-data">New York Times Data</a>: Two time-series datasets collected by the New York Times from various U.S. state and local agencies; the first record is aligns with the first case in the United States on 21 January 2020.</summary>
 <p>
+<ul>
 
-* Detailed Description: Two time-series datasets collected by the New York Times from various state and local government agencies; the first record is the first case in the United States on 21 January 2020. One dataset contains information aggregated at the state-level and the other is information broken down by county. Features contained are: date, county/state, fips, cases, and deaths. NOTE: This source only provides information about positive cases.
-* Data Resolution: U.S. States, U.S. County
-* Frequency of update: Daily
-* Download Method: Download / Clone
-  * File type: CSV
-* Cleaning requirements: Minimal
-* Link: https://github.com/nytimes/covid-19-data
+<li> Detailed Description: Two time-series datasets collected by the New York Times from various state and local government agencies; the first record is the first case in the United States on 21 January 2020. One dataset contains information aggregated at the state-level and the other is information broken down by county. Features contained are: date, county/state, fips, cases, and deaths. NOTE: This source only provides information about positive cases.</li>
+<li> Data Resolution: U.S. States, U.S. County</li>
+<li> Frequency of update: Daily </li>
+<li> Download Method: Download / Clone </li>
+<ul>
+  <li> File type: CSV </li></ul>
+<li> Cleaning requirements: Minimal </li>
+<li> Link: <a href=https://github.com/nytimes/covid-19-data>https://github.com/nytimes/covid-19-data></a></li>
 </p>
 </details>
 
@@ -162,16 +171,17 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 <summary>
 <a href="https://coronavirus.1point3acres.com/en">1Point3Acres covid19 dataset</a>: case based covid 19 dataset in US and Canada</summary>
 <p>
+<ul>
 
-* Detailed Description: The case data contains case id, confirmed date, state/province, county (for US only), confirmed case count, and death count. (Have rules on citing this source)
-* Data Resolution: US(county level) and Canada
-* Frequency of update: Daily
-* Download Method: API(I have requested and get the API access token,  20 requests per 24 hour)
-  * File type: CSV
-* Cleaning requirements: Minimal
-* Link: https://coronavirus.1point3acres.com/en
+<li> Detailed Description: The case data contains case id, confirmed date, state/province, county (for US only), confirmed case count, and death count. (Have rules on citing this source)</li>
+<li> Data Resolution: US(county level) and Canada</li>
+<li> Frequency of update: Daily </li>
+<li> Download Method: API(I have requested and get the API access token,  20 requests per 24 hour) </li>
+<ul>
+  <li> File type: CSV </li></ul>
+<li> Cleaning requirements: Minimal </li>
+<li> Link: <a href=https://coronavirus.1point3acres.com/en>https://coronavirus.1point3acres.com/en></a></li>
 </p>
-</details>
 </details>
 
 
@@ -198,30 +208,35 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 <summary>
 <a href="https://www.kaggle.com/lin0li/us-lockdown-dates-dataset">US Lockdown Dataset</a>: State and county stay-at-home order data</summary>
 <p>
+<ul>
 
-* Detailed Description: Dates of when is each state / county's stay-at-home order becomes effective as a result of the covid-19 pandemic. This dataset is updated daily as more states & counties issue stay-at-home order. Some rows contain blank counties if it pertains to the whole state.
-* Data Resolution: U.S. States, U.S. County
-* Frequency of update: Daily
-* Download Method: Download
-  * File type: CSV
-* Cleaning requirements: Minimal/Moderate
-* Link: https://www.kaggle.com/lin0li/us-lockdown-dates-dataset
+<li> Detailed Description: Dates of when is each state / county's stay-at-home order becomes effective as a result of the covid-19 pandemic. This dataset is updated daily as more states & counties issue stay-at-home order. Some rows contain blank counties if it pertains to the whole state.</li>
+<li> Data Resolution: U.S. States, U.S. County</li>
+<li> Frequency of update: Daily </li>
+<li> Download Method: Download </li>
+<ul>
+  <li> File type: CSV </li></ul>
+<li> Cleaning requirements: Minimal/Moderate </li>
+<li> Link: <a href=https://www.kaggle.com/lin0li/us-lockdown-dates-dataset>https://www.kaggle.com/lin0li/us-lockdown-dates-dataset></a></li>
 </p>
 </details>
 
 ## Healthcare Resource Data
+
 <details>
 <summary>
 <a href="https://coronavirus-disasterresponse.hub.arcgis.com/datasets/definitivehc::definitive-healthcare-usa-hospital-beds/data?geometry=94.394%2C-16.820%2C-119.356%2C72.123&page=10">USA Hospital Beds</a>: County level data.Contains hospital beds related data(amount, untility rate, bed type, etc)as well as hospital geographic data</summary>
 <p>
+<ul>
 
-* Detailed Description: Contains hospital beds related data(amount, untility rate, bed type, etc)as well as hospital geographic data
-* Data Resolution: US county
-* Frequency of update: Daily(not sure, last updated 'yesterday')
-* Download Method: Download
-  * File type: CSV
-* Cleaning requirements: Minimal
-* Link: https://coronavirus-disasterresponse.hub.arcgis.com/datasets/definitivehc::definitive-healthcare-usa-hospital-beds/data?geometry=94.394%2C-16.820%2C-119.356%2C72.123&page=10
+<li> Detailed Description: Contains hospital beds related data(amount, untility rate, bed type, etc)as well as hospital geographic data</li>
+<li> Data Resolution: US county</li>
+<li> Frequency of update: Daily(not sure, last updated 'yesterday') </li>
+<li> Download Method: Download </li>
+<ul>
+  <li> File type: CSV </li></ul>
+<li> Cleaning requirements: Minimal </li>
+<li> Link: <a href=https://coronavirus-disasterresponse.hub.arcgis.com/datasets/definitivehc::definitive-healthcare-usa-hospital-beds/data?geometry=94.394%2C-16.820%2C-119.356%2C72.123&page=10>https://coronavirus-disasterresponse.hub.arcgis.com/datasets/definitivehc::definitive-healthcare-usa-hospital-beds/data?geometry=94.394%2C-16.820%2C-119.356%2C72.123&page=10></a></li>
 </p>
 </details>
 
@@ -230,17 +245,18 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 <summary>
 <a href="https://github.com/covidcaremap/covid19-healthsystemcapacity/tree/master/data/published">US Hospital Facility Bed Capacity</a>: Includes information about all hospitals bed and ventilators per capita, health care capacity data etc</summary>
 <p>
+<ul>
 
-* Detailed Description: High quality data on US hospitals capacity including beds per capita, covid care data etc.
-* Data Resolution: US county
-* Frequency of update: Last updated on april 7
-* Download Method: Clone
-  * File type: CSV/geojson
-* Cleaning requirements: Minimal
-* Link: https://github.com/covidcaremap/covid19-healthsystemcapacity/tree/master/data/published
+<li> Detailed Description: High quality data on US hospitals capacity including beds per capita, covid care data etc.</li>
+<li> Data Resolution: US county</li>
+<li> Frequency of update: Last updated on april 7 </li>
+<li> Download Method: Clone </li>
+<ul>
+  <li> File type: CSV/geojson </li></ul>
+<li> Cleaning requirements: Minimal </li>
+<li> Link: <a href=https://github.com/covidcaremap/covid19-healthsystemcapacity/tree/master/data/published>https://github.com/covidcaremap/covid19-healthsystemcapacity/tree/master/data/published></a></li>
 </p>
 </details>
-
 
 <details>
 <summary>
@@ -279,12 +295,14 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 
 
 ## Social Data
+
 <details>
 <summary>
 <a href="https://trends.google.com/trends/?geo=US">Google Trends</a>: Data on the trends in people's google searches.</summary>
 <p>
+<ul>
 
-* Detailed Description: GoogleTrends data is phenomenal, it is interesting, important, and can be so insightful, IF IT IS USED CORRECTLY. It can be a little confusing the first time you see it, and the instructions given will help you understand the graphs presented on the GoogleTrends page when you input a search term. However, figuring out how to use it further and get more from it, is not super clear. All of the data is given in search intensity, scaled from 0 to 100, where 100 is the maximum search intensity. The maximum search intensity does not give you any information about the actual number of searches, that number is that search terms peak in searches, then everything else is scaled to that value. A search intensity of 50 means that term was searched half as many times as the search intensity of 100. 
+<li> Detailed Description: GoogleTrends data is phenomenal, it is interesting, important, and can be so insightful, IF IT IS USED CORRECTLY. It can be a little confusing the first time you see it, and the instructions given will help you understand the graphs presented on the GoogleTrends page when you input a search term. However, figuring out how to use it further and get more from it, is not super clear. All of the data is given in search intensity, scaled from 0 to 100, where 100 is the maximum search intensity. The maximum search intensity does not give you any information about the actual number of searches, that number is that search terms peak in searches, then everything else is scaled to that value. A search intensity of 50 means that term was searched half as many times as the search intensity of 100. 
 
 Now, lets put that in context, google trends allows you to vary the time period, regional resolution, and the search term(s).
     - You can specify a time period of any range dating back to 2014.
@@ -311,29 +329,33 @@ Regional Search Intensities (comparing a terms search intensity based on locatio
 
 *** You can also do regional searches that compare multiple terms, and it is really interesting. However, manipulation of that data is even more difficult, and requires a lot of attention to unravel. It is very easy to make a small mistake, and that small mistake will echo throughout all of the data, again making it worthless.
 
-This is just a brief summary of the data given, and what I have found to be the things to watch out for, look at google trends descriptions as well for details specific to their user interface. If you still feel like you want to dive deeper into some of this data, there is a library full of research articles using the data and webpages dedicated to some manipulation of the data to get more out of it. I will just warn you to be careful, the manipulation, overlapping and other methods to change the data are always approximations, and not always correct, so read them thoughourly and check that they validated their method in some clear and accurate way.
-* Data Resolution: Global, Country Level, U.S. State Level, U.S. Metro Region Level, Other Countries Have Unique Regional Breakdowns
-* Frequency of update: Daily
-* Download Method: Download / API (pytrends)
-  * File type: CSV
-* Cleaning requirements: Minimal
-* Link: https://trends.google.com/trends/?geo=US
+This is just a brief summary of the data given, and what I have found to be the things to watch out for, look at google trends descriptions as well for details specific to their user interface. If you still feel like you want to dive deeper into some of this data, there is a library full of research articles using the data and webpages dedicated to some manipulation of the data to get more out of it. I will just warn you to be careful, the manipulation, overlapping and other methods to change the data are always approximations, and not always correct, so read them thoughourly and check that they validated their method in some clear and accurate way.</li>
+<li> Data Resolution: Global, Country Level, U.S. State Level, U.S. Metro Region Level, Other Countries Have Unique Regional Breakdowns</li>
+<li> Frequency of update: Daily </li>
+<li> Download Method: Download / API (pytrends) </li>
+<ul>
+  <li> File type: CSV </li></ul>
+<li> Cleaning requirements: Minimal </li>
+<li> Link: <a href=https://trends.google.com/trends/?geo=US>https://trends.google.com/trends/?geo=US></a></li>
 </p>
 </details>
+
 
 
 <details>
 <summary>
 <a href="https://covid-19-apis.postman.com/">Postman: COVID-19 API Resource Center</a>: Contains links and detailed information about accessing public feeds from 28 different organizations and topics via application program interfaces (API). Organizations represented include the WHO, CDC, and John Hopkins University.</summary>
 <p>
+<ul>
 
-* Detailed Description: Contains links and detailed information about accessing public feeds from 28 different organizations and topics via application program interfaces (API). This site contains information to connect to feeds from the WHO, CDC, COVID Tracking Project, and John Hopkins University COVID Database just to name a few. There are examples of how to access an organization's Twitter and Youtube feed, however individuals must have the requisite API Key / Access Tokens to access the information contained on those sites. 
-* Data Resolution: Various
-* Frequency of update: nan
-* Download Method: API
-  * File type: Various
-* Cleaning requirements: Significant
-* Link: https://covid-19-apis.postman.com/
+<li> Detailed Description: Contains links and detailed information about accessing public feeds from 28 different organizations and topics via application program interfaces (API). This site contains information to connect to feeds from the WHO, CDC, COVID Tracking Project, and John Hopkins University COVID Database just to name a few. There are examples of how to access an organization's Twitter and Youtube feed, however individuals must have the requisite API Key / Access Tokens to access the information contained on those sites. </li>
+<li> Data Resolution: Various</li>
+<li> Frequency of update: nan </li>
+<li> Download Method: API </li>
+<ul>
+  <li> File type: Various </li></ul>
+<li> Cleaning requirements: Significant </li>
+<li> Link: <a href=https://covid-19-apis.postman.com/>https://covid-19-apis.postman.com/></a></li>
 </p>
 </details>
 
@@ -341,14 +363,16 @@ This is just a brief summary of the data given, and what I have found to be the 
 <summary>
 <a href="nan">SafeGraph Dataset</a>: Data on foot traffic throughout the US. It has the number of times people pass by over 6 million different points of interest in the US.</summary>
 <p>
+<ul>
 
-* Detailed Description: This Data is based on businesses and consumer hot spots. It uses over 6 million points throughout the US and tracks the amount of foot traffic at each of these points. They give data like number of visitors over a certain period, and also offer shapefiles for mapping or any locational visualizations.
-* Data Resolution: US Points of Interest
-* Frequency of update: Daily
-* Download Method: Download
-  * File type: CSV
-* Cleaning requirements: Minimal
-* Link: https://www.safegraph.com/covid-19-data-consortium
+<li> Detailed Description: This Data is based on businesses and consumer hot spots. It uses over 6 million points throughout the US and tracks the amount of foot traffic at each of these points. They give data like number of visitors over a certain period, and also offer shapefiles for mapping or any locational visualizations.</li>
+<li> Data Resolution: US Points of Interest</li>
+<li> Frequency of update: Daily </li>
+<li> Download Method: Download </li>
+<ul>
+  <li> File type: CSV </li></ul>
+<li> Cleaning requirements: Minimal </li>
+<li> Link: <a href=nan>nan></a></li>
 </p>
 </details>
 
@@ -374,14 +398,16 @@ This is just a brief summary of the data given, and what I have found to be the 
 <summary>
 <a href="https://www.notion.so/Schools-affected-by-COVID-19-a28139cb40814869a2cd64cc9453d82c">Schools affected by COVID-19</a>: Dataset of Higher Education schools moving to online-only instruction due to COVID-19</summary>
 <p>
+<ul>
 
-* Detailed Description: nan
-* Data Resolution: US county
-* Frequency of update: Last updated March 27
-* Download Method: Download
-  * File type: CSV
-* Cleaning requirements: Minmal
-* Link: https://www.notion.so/Schools-affected-by-COVID-19-a28139cb40814869a2cd64cc9453d82c
+<li> Detailed Description: nan</li>
+<li> Data Resolution: US county</li>
+<li> Frequency of update: Last updated March 27 </li>
+<li> Download Method: Download </li>
+<ul>
+  <li> File type: CSV </li></ul>
+<li> Cleaning requirements: Minmal </li>
+<li> Link: <a href=https://www.notion.so/Schools-affected-by-COVID-19-a28139cb40814869a2cd64cc9453d82c>https://www.notion.so/Schools-affected-by-COVID-19-a28139cb40814869a2cd64cc9453d82c></a></li>
 </p>
 </details>
 
@@ -389,14 +415,16 @@ This is just a brief summary of the data given, and what I have found to be the 
 <summary>
 <a href="https://www.quorum.us/spreadsheet/external/QCKYcPmSvYoAhnkIdcSS/">COVID-19 Legislation</a>: Interactive site for users to access: statewide or nationwide data on all covid-19 legislation</summary>
 <p>
+<ul>
 
-* Detailed Description: Queryable and downloadable data pertaining to United States COVID-19 legislation. The data contains name of the bill, the region it spans, description of the legislation, link to the source, status, last action, date of last action, type (house/senate/other), the internal quorum link.
-* Data Resolution: U.S. States, U.S.
-* Frequency of update: At least daily
-* Download Method: Download
-  * File type: CSV
-* Cleaning requirements: Minimal
-* Link: https://www.quorum.us/spreadsheet/external/QCKYcPmSvYoAhnkIdcSS/
+<li> Detailed Description: Queryable and downloadable data pertaining to United States COVID-19 legislation. The data contains name of the bill, the region it spans, description of the legislation, link to the source, status, last action, date of last action, type (house/senate/other), the internal quorum link.</li>
+<li> Data Resolution: U.S. States, U.S.</li>
+<li> Frequency of update: At least daily </li>
+<li> Download Method: Download </li>
+<ul>
+  <li> File type: CSV </li></ul>
+<li> Cleaning requirements: Minimal </li>
+<li> Link: <a href=https://www.quorum.us/spreadsheet/external/QCKYcPmSvYoAhnkIdcSS/>https://www.quorum.us/spreadsheet/external/QCKYcPmSvYoAhnkIdcSS/></a></li>
 </p>
 </details>
 
@@ -404,14 +432,16 @@ This is just a brief summary of the data given, and what I have found to be the 
 <summary>
 <a href="https://help.cuebiq.com/hc/en-us/articles/360041350092-Cuebiq-Mobility-Visit-Index-Feed-Specs#h_e4633fc1-3206-4ee5-a3b8-6f7735e22c7e">Coebiq Mobility Index Data</a>: Dataset shows mobility and store visitation patterns</summary>
 <p>
+<ul>
 
-* Detailed Description: This data representing the level of movement within each specific county in the U.S. 
-* Data Resolution: US county
-* Frequency of update: Daily
-* Download Method: AWS S3 (premier account of Coebiq needed)
-  * File type: CSV
-* Cleaning requirements: Minimal
-* Link: https://help.cuebiq.com/hc/en-us/articles/360041350092-Cuebiq-Mobility-Visit-Index-Feed-Specs#h_e4633fc1-3206-4ee5-a3b8-6f7735e22c7e
+<li> Detailed Description: This data representing the level of movement within each specific county in the U.S. </li>
+<li> Data Resolution: US county</li>
+<li> Frequency of update: Daily </li>
+<li> Download Method: AWS S3 (premier account of Coebiq needed) </li>
+<ul>
+  <li> File type: CSV </li></ul>
+<li> Cleaning requirements: Minimal </li>
+<li> Link: <a href=https://help.cuebiq.com/hc/en-us/articles/360041350092-Cuebiq-Mobility-Visit-Index-Feed-Specs#h_e4633fc1-3206-4ee5-a3b8-6f7735e22c7e>https://help.cuebiq.com/hc/en-us/articles/360041350092-Cuebiq-Mobility-Visit-Index-Feed-Specs#h_e4633fc1-3206-4ee5-a3b8-6f7735e22c7e></a></li>
 </p>
 </details>
 
@@ -435,18 +465,21 @@ This is just a brief summary of the data given, and what I have found to be the 
 
 ## Academic Data
 
+
 <details>
 <summary>
 <a href="https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge#metadata.csv">Scholarly Article Database</a>: Big database of scholarly article metadata with links and queryable json files for Natural Language Processing</summary>
 <p>
+<ul>
 
-* Detailed Description: This dataset combines 44k+ scholarly articles/literature pertaining to the coronavirus. It can be used to analyze the main authors, sources, titles, journal and abstract for the analyst to look into. Each row provides a link to the article if Natural Language Processing should be a desired task. 
-* Data Resolution: U.S.
-* Frequency of update: Static
-* Download Method: Download/Embedded link
-  * File type: JSON
-* Cleaning requirements: Significant
-* Link: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge#metadata.csv
+<li> Detailed Description: This dataset combines 44k+ scholarly articles/literature pertaining to the coronavirus. It can be used to analyze the main authors, sources, titles, journal and abstract for the analyst to look into. Each row provides a link to the article if Natural Language Processing should be a desired task. </li>
+<li> Data Resolution: U.S.</li>
+<li> Frequency of update: Static </li>
+<li> Download Method: Download/Embedded link </li>
+<ul>
+  <li> File type: JSON </li></ul>
+<li> Cleaning requirements: Significant </li>
+<li> Link: <a href=https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge#metadata.csv>https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge#metadata.csv></a></li>
 </p>
 </details>
 
