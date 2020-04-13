@@ -140,18 +140,21 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 </p>
 </details>
 
+
 <details>
 <summary>
-<a href="https://ncov.dxy.cn/ncovh5/view/pneumonia">DXY</a>: A Chinese pandemic tracking online platform showing the number of cases locally and globally</summary>
+<a href="https://ncov.dxy.cn/ncovh5/view/pneumonia">DXY: a Chinese pandemic tracking online platform</a>: A Chinese online platform showing the number of cases locally and globally</summary>
 <p>
+<ul>
 
-* Detailed Description: Daily confirmed, deaths, and recovered cases worldwide. There is English version if click "switch to English version", but it doesn't provide dataset to download.
-* Data Resolution: Global, China
-* Frequency of update: Daily
-* Download Method: Copy-paste
-  * File type: Text
-* Cleaning requirements: Significant
-* Link: https://ncov.dxy.cn/ncovh5/view/pneumonia
+<li> Detailed Description: Daily confirmed, deaths, and recovered cases worldwide. There is English version if click "switch to English version", but it doesn't provide dataset to download.</li>
+<li> Data Resolution: Global, China</li>
+<li> Frequency of update: Daily </li>
+<li> Download Method: Copy-paste </li>
+<ul>
+  <li> File type: Text </li></ul>
+<li> Cleaning requirements: Significant </li>
+<li> Link: <a href=https://ncov.dxy.cn/ncovh5/view/pneumonia>https://ncov.dxy.cn/ncovh5/view/pneumonia></a></li>
 </p>
 </details>
 
@@ -173,18 +176,21 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 
 
 ## Government Response Data
+
 <details>
 <summary>
 <a href="https://www.kaggle.com/jcyzag/covid19-lockdown-dates-by-country#countryLockdowndates.csv">Worldwide Lockdown Dataset</a>: Country and province stay-at-home order data</summary>
 <p>
+<ul>
 
-* Detailed Description: 2 files. List of lockdown dates for each countries. A lockdown is assumed to be complete when all schools and non-essential businesses are closed. References for each country are also listed for where the information was found. Some rows contain blank provinces if it pertains to the whole nation.
-* Data Resolution: Global, 
-* Frequency of update: Static? (updated 3 days ago)
-* Download Method: Download
-  * File type: CSV
-* Cleaning requirements: Minimal/Moderate
-* Link: https://www.kaggle.com/jcyzag/covid19-lockdown-dates-by-country#countryLockdowndates.csv
+<li> Detailed Description: 2 files. List of lockdown dates for each countries. A lockdown is assumed to be complete when all schools and non-essential businesses are closed. References for each country are also listed for where the information was found. Some rows contain blank provinces if it pertains to the whole nation.</li>
+<li> Data Resolution: Global, </li>
+<li> Frequency of update: Static? (updated 3 days ago) </li>
+<li> Download Method: Download </li>
+<ul>
+  <li> File type: CSV </li></ul>
+<li> Cleaning requirements: Minimal/Moderate </li>
+<li> Link: <a href=https://www.kaggle.com/jcyzag/covid19-lockdown-dates-by-country#countryLockdowndates.csv>https://www.kaggle.com/jcyzag/covid19-lockdown-dates-by-country#countryLockdowndates.csv></a></li>
 </p>
 </details>
 
@@ -240,16 +246,19 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 <summary>
 <a href="https://datarepository.wolframcloud.com/resources/Patient-Medical-Data-for-Novel-Coronavirus-COVID-19">Patient Medical Data for COVID-19</a>: Medical records of patients infected with COVID-19</summary>
 <p>
+<ul>
 
-* Detailed Description: Patient record including age, sex, location, date of onset, symptoms, travel history, chronic diseases, and date of discharge or death.
-* Data Resolution: Global
-* Frequency of update: Last updated on April 1
-* Download Method: Download
-  * File type: CSV/JSON
-* Cleaning requirements: Minimal
-* Link: https://datarepository.wolframcloud.com/resources/Patient-Medical-Data-for-Novel-Coronavirus-COVID-19
+<li> Detailed Description: Patient record including age, sex, location, date of onset, symptoms, travel history, chronic diseases, and date of discharge or death.</li>
+<li> Data Resolution: Global</li>
+<li> Frequency of update: Last updated on April 1 </li>
+<li> Download Method: Download </li>
+<ul>
+  <li> File type: CSV/JSON </li></ul>
+<li> Cleaning requirements: Minimal </li>
+<li> Link: <a href=https://datarepository.wolframcloud.com/resources/Patient-Medical-Data-for-Novel-Coronavirus-COVID-19>https://datarepository.wolframcloud.com/resources/Patient-Medical-Data-for-Novel-Coronavirus-COVID-19></a></li>
 </p>
 </details>
+
 
 <details>
 <summary>
@@ -264,9 +273,10 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 <ul>
   <li> File type: CSV </li></ul>
 <li> Cleaning requirements: Minimal </li>
-<li> Link: <a href=https://www.kaggle.com/danevans/world-bank-wdi-212-health-systems>https://www.kaggle.com/danevans/world-bank-wdi-212-health-systems</a></li>
+<li> Link: <a href=https://www.kaggle.com/danevans/world-bank-wdi-212-health-systems>https://www.kaggle.com/danevans/world-bank-wdi-212-health-systems></a></li>
 </p>
 </details>
+
 
 ## Social Data
 <details>
@@ -347,14 +357,16 @@ This is just a brief summary of the data given, and what I have found to be the 
 <summary>
 <a href="https://github.com/thepanacealab/covid19_twitter/tree/master/dailies/2020-03-22">Covid-19 Twitter dataset</a>: Dataset of tweets acquired from the Twitter Stream related to COVID-19 chatter</summary>
 <p>
+<ul>
 
-* Detailed Description: Interesting dataset of social media, including daily top 1000 terms, bigrams, trigrams etc., also contains cleaned version on tweet text. Tweets languages including English Spanish and French
-* Data Resolution: Global
-* Frequency of update: every 2 days
-* Download Method: Clone
-  * File type: CSV
-* Cleaning requirements: Minmal
-* Link: https://github.com/thepanacealab/covid19_twitter/tree/master/dailies/2020-03-22
+<li> Detailed Description: Interesting dataset of social media, including daily top 1000 terms, bigrams, trigrams etc., also contains cleaned version on tweet text. Tweets languages including English Spanish and French</li>
+<li> Data Resolution: Global</li>
+<li> Frequency of update: every 2 days </li>
+<li> Download Method: Clone </li>
+<ul>
+  <li> File type: CSV </li></ul>
+<li> Cleaning requirements: Minmal </li>
+<li> Link: <a href=https://github.com/thepanacealab/covid19_twitter/tree/master/dailies/2020-03-22>https://github.com/thepanacealab/covid19_twitter/tree/master/dailies/2020-03-22></a></li>
 </p>
 </details>
 
