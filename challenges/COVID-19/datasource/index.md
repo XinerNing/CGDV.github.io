@@ -79,7 +79,7 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 <ul>
   <li> File type: CSV </li></ul>
 <li> Cleaning requirements: Minimal </li>
-<li> Link: <a href=https://github.com/CSSEGISandData/COVID-19>https://github.com/CSSEGISandData/COVID-19></a></li>
+<li> Link: <a href="https://github.com/CSSEGISandData/COVID-19">https://github.com/CSSEGISandData/COVID-19</a></li>
 </p>
 </details>
 
@@ -97,7 +97,7 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 <ul>
   <li> File type: CSV </li></ul>
 <li> Cleaning requirements: Minimal </li>
-<li> Link: <a href=https://github.com/nychealth/coronavirus-data>https://github.com/nychealth/coronavirus-data></a></li>
+<li> Link: <a href="https://github.com/nychealth/coronavirus-data">https://github.com/nychealth/coronavirus-data</a></li>
 </p>
 </details>
 
@@ -115,7 +115,7 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 <ul>
   <li> File type: CSV </li></ul>
 <li> Cleaning requirements: Minimal </li>
-<li> Link: <a href=https://github.com/nytimes/covid-19-data>https://github.com/nytimes/covid-19-data></a></li>
+<li> Link: <a href="https://github.com/nytimes/covid-19-data">https://github.com/nytimes/covid-19-data</a></li>
 </p>
 </details>
 
@@ -123,14 +123,16 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 <summary>
 <a href="https://github.com/covid19india/api">INDIA COVID-19 TRACKER</a>: Crowdsourced India COVID-19 data. Some interesting points because it takes data from anyone.</summary>
 <p>
+<ul>
 
-* Detailed Description: This is a link to a GitHub repository that is used to crowdsource data about COVID-19 in India. The crowdsourced data has been used to make an HTML page (the link is in the GitHub repository). The data is crowdsourced through telegram, a social media type application, but it is not thoroughly validated. It is really interesting data about India, but it needs to be used appropriately in analysis. It is submitted through a social media platform, so some of it is likely incorrect, but could make fantastic supplementary data.
-* Data Resolution: Country
-* Frequency of update: Daily
-* Download Method: Clone / API
-  * File type: JSON
-* Cleaning requirements: Minimal
-* Link: https://github.com/covid19india/api
+<li> Detailed Description: This is a link to a GitHub repository that is used to crowdsource data about COVID-19 in India. The crowdsourced data has been used to make an HTML page (the link is in the GitHub repository). The data is crowdsourced through telegram, a social media type application, but it is not thoroughly validated. It is really interesting data about India, but it needs to be used appropriately in analysis. It is submitted through a social media platform, so some of it is likely incorrect, but could make fantastic supplementary data.</li>
+<li> Data Resolution: Country</li>
+<li> Frequency of update: Daily </li>
+<li> Download Method: Clone / API </li>
+<ul>
+  <li> File type: JSON </li></ul>
+<li> Cleaning requirements: Minimal </li>
+<li> Link: <a href="https://github.com/covid19india/api">https://github.com/covid19india/api</a></li>
 </p>
 </details>
 
@@ -138,14 +140,16 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 <summary>
 <a href="https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide">European Centre for Disease Prevention and Control</a>: Dataset of positive cases and deaths by country worldwide</summary>
 <p>
+<ul>
 
-* Detailed Description: Contains a dataset that tracks positive cases and deaths per country. Originally a record data but could be transformed into timeseries with decent coding work
-* Data Resolution: Global
-* Frequency of update: Daily
-* Download Method: Download
-  * File type: CSV, JSON, XML
-* Cleaning requirements: Minimal/Moderate
-* Link: https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
+<li> Detailed Description: Contains a dataset that tracks positive cases and deaths per country. Originally a record data but could be transformed into timeseries with decent coding work</li>
+<li> Data Resolution: Global</li>
+<li> Frequency of update: Daily </li>
+<li> Download Method: Download </li>
+<ul>
+  <li> File type: CSV, JSON, XML </li></ul>
+<li> Cleaning requirements: Minimal/Moderate </li>
+<li> Link: <a href="https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide">https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide</a></li>
 </p>
 </details>
 
@@ -163,7 +167,7 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 <ul>
   <li> File type: Text </li></ul>
 <li> Cleaning requirements: Significant </li>
-<li> Link: <a href=https://ncov.dxy.cn/ncovh5/view/pneumonia>https://ncov.dxy.cn/ncovh5/view/pneumonia></a></li>
+<li> Link: <a href="https://ncov.dxy.cn/ncovh5/view/pneumonia">https://ncov.dxy.cn/ncovh5/view/pneumonia</a></li>
 </p>
 </details>
 
@@ -180,7 +184,7 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 <ul>
   <li> File type: CSV </li></ul>
 <li> Cleaning requirements: Minimal </li>
-<li> Link: <a href=https://coronavirus.1point3acres.com/en>https://coronavirus.1point3acres.com/en></a></li>
+<li> Link: <a href="https://coronavirus.1point3acres.com/en">https://coronavirus.1point3acres.com/en</a></li>
 </p>
 </details>
 
@@ -200,7 +204,7 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 <ul>
   <li> File type: CSV </li></ul>
 <li> Cleaning requirements: Minimal/Moderate </li>
-<li> Link: <a href=https://www.kaggle.com/jcyzag/covid19-lockdown-dates-by-country#countryLockdowndates.csv>https://www.kaggle.com/jcyzag/covid19-lockdown-dates-by-country#countryLockdowndates.csv></a></li>
+<li> Link: <a href="https://www.kaggle.com/jcyzag/covid19-lockdown-dates-by-country#countryLockdowndates.csv">https://www.kaggle.com/jcyzag/covid19-lockdown-dates-by-country#countryLockdowndates.csv</a></li>
 </p>
 </details>
 
@@ -217,7 +221,7 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 <ul>
   <li> File type: CSV </li></ul>
 <li> Cleaning requirements: Minimal/Moderate </li>
-<li> Link: <a href=https://www.kaggle.com/lin0li/us-lockdown-dates-dataset>https://www.kaggle.com/lin0li/us-lockdown-dates-dataset></a></li>
+<li> Link: <a href="https://www.kaggle.com/lin0li/us-lockdown-dates-dataset">https://www.kaggle.com/lin0li/us-lockdown-dates-dataset</a></li>
 </p>
 </details>
 
@@ -236,7 +240,7 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 <ul>
   <li> File type: CSV </li></ul>
 <li> Cleaning requirements: Minimal </li>
-<li> Link: <a href=https://coronavirus-disasterresponse.hub.arcgis.com/datasets/definitivehc::definitive-healthcare-usa-hospital-beds/data?geometry=94.394%2C-16.820%2C-119.356%2C72.123&page=10>https://coronavirus-disasterresponse.hub.arcgis.com/datasets/definitivehc::definitive-healthcare-usa-hospital-beds/data?geometry=94.394%2C-16.820%2C-119.356%2C72.123&page=10></a></li>
+<li> Link: <a href="https://coronavirus-disasterresponse.hub.arcgis.com/datasets/definitivehc::definitive-healthcare-usa-hospital-beds/data?geometry=94.394%2C-16.820%2C-119.356%2C72.123&page=10">https://coronavirus-disasterresponse.hub.arcgis.com/datasets/definitivehc::definitive-healthcare-usa-hospital-beds/data?geometry=94.394%2C-16.820%2C-119.356%2C72.123&page=10</a></li>
 </p>
 </details>
 
@@ -254,7 +258,7 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 <ul>
   <li> File type: CSV/geojson </li></ul>
 <li> Cleaning requirements: Minimal </li>
-<li> Link: <a href=https://github.com/covidcaremap/covid19-healthsystemcapacity/tree/master/data/published>https://github.com/covidcaremap/covid19-healthsystemcapacity/tree/master/data/published></a></li>
+<li> Link: <a href="https://github.com/covidcaremap/covid19-healthsystemcapacity/tree/master/data/published">https://github.com/covidcaremap/covid19-healthsystemcapacity/tree/master/data/published</a></li>
 </p>
 </details>
 
@@ -271,7 +275,7 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 <ul>
   <li> File type: CSV/JSON </li></ul>
 <li> Cleaning requirements: Minimal </li>
-<li> Link: <a href=https://datarepository.wolframcloud.com/resources/Patient-Medical-Data-for-Novel-Coronavirus-COVID-19>https://datarepository.wolframcloud.com/resources/Patient-Medical-Data-for-Novel-Coronavirus-COVID-19></a></li>
+<li> Link: <a href="https://datarepository.wolframcloud.com/resources/Patient-Medical-Data-for-Novel-Coronavirus-COVID-19">https://datarepository.wolframcloud.com/resources/Patient-Medical-Data-for-Novel-Coronavirus-COVID-19</a></li>
 </p>
 </details>
 
@@ -289,7 +293,7 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 <ul>
   <li> File type: CSV </li></ul>
 <li> Cleaning requirements: Minimal </li>
-<li> Link: <a href=https://www.kaggle.com/danevans/world-bank-wdi-212-health-systems>https://www.kaggle.com/danevans/world-bank-wdi-212-health-systems></a></li>
+<li> Link: <a href="https://www.kaggle.com/danevans/world-bank-wdi-212-health-systems">https://www.kaggle.com/danevans/world-bank-wdi-212-health-systems</a></li>
 </p>
 </details>
 
@@ -336,7 +340,7 @@ This is just a brief summary of the data given, and what I have found to be the 
 <ul>
   <li> File type: CSV </li></ul>
 <li> Cleaning requirements: Minimal </li>
-<li> Link: <a href=https://trends.google.com/trends/?geo=US>https://trends.google.com/trends/?geo=US></a></li>
+<li> Link: <a href="https://trends.google.com/trends/?geo=US">https://trends.google.com/trends/?geo=US</a></li>
 </p>
 </details>
 
@@ -355,7 +359,7 @@ This is just a brief summary of the data given, and what I have found to be the 
 <ul>
   <li> File type: Various </li></ul>
 <li> Cleaning requirements: Significant </li>
-<li> Link: <a href=https://covid-19-apis.postman.com/>https://covid-19-apis.postman.com/></a></li>
+<li> Link: <a href="https://covid-19-apis.postman.com/">https://covid-19-apis.postman.com/</a></li>
 </p>
 </details>
 
@@ -390,7 +394,7 @@ This is just a brief summary of the data given, and what I have found to be the 
 <ul>
   <li> File type: CSV </li></ul>
 <li> Cleaning requirements: Minmal </li>
-<li> Link: <a href=https://github.com/thepanacealab/covid19_twitter/tree/master/dailies/2020-03-22>https://github.com/thepanacealab/covid19_twitter/tree/master/dailies/2020-03-22></a></li>
+<li> Link: <a href="https://github.com/thepanacealab/covid19_twitter/tree/master/dailies/2020-03-22">https://github.com/thepanacealab/covid19_twitter/tree/master/dailies/2020-03-22</a></li>
 </p>
 </details>
 
@@ -407,7 +411,7 @@ This is just a brief summary of the data given, and what I have found to be the 
 <ul>
   <li> File type: CSV </li></ul>
 <li> Cleaning requirements: Minmal </li>
-<li> Link: <a href=https://www.notion.so/Schools-affected-by-COVID-19-a28139cb40814869a2cd64cc9453d82c>https://www.notion.so/Schools-affected-by-COVID-19-a28139cb40814869a2cd64cc9453d82c></a></li>
+<li> Link: <a href="https://www.notion.so/Schools-affected-by-COVID-19-a28139cb40814869a2cd64cc9453d82c">https://www.notion.so/Schools-affected-by-COVID-19-a28139cb40814869a2cd64cc9453d82c</a></li>
 </p>
 </details>
 
@@ -424,7 +428,7 @@ This is just a brief summary of the data given, and what I have found to be the 
 <ul>
   <li> File type: CSV </li></ul>
 <li> Cleaning requirements: Minimal </li>
-<li> Link: <a href=https://www.quorum.us/spreadsheet/external/QCKYcPmSvYoAhnkIdcSS/>https://www.quorum.us/spreadsheet/external/QCKYcPmSvYoAhnkIdcSS/></a></li>
+<li> Link: <a href="https://www.quorum.us/spreadsheet/external/QCKYcPmSvYoAhnkIdcSS/">https://www.quorum.us/spreadsheet/external/QCKYcPmSvYoAhnkIdcSS/</a></li>
 </p>
 </details>
 
@@ -441,7 +445,7 @@ This is just a brief summary of the data given, and what I have found to be the 
 <ul>
   <li> File type: CSV </li></ul>
 <li> Cleaning requirements: Minimal </li>
-<li> Link: <a href=https://help.cuebiq.com/hc/en-us/articles/360041350092-Cuebiq-Mobility-Visit-Index-Feed-Specs#h_e4633fc1-3206-4ee5-a3b8-6f7735e22c7e>https://help.cuebiq.com/hc/en-us/articles/360041350092-Cuebiq-Mobility-Visit-Index-Feed-Specs#h_e4633fc1-3206-4ee5-a3b8-6f7735e22c7e></a></li>
+<li> Link: <a href="https://help.cuebiq.com/hc/en-us/articles/360041350092-Cuebiq-Mobility-Visit-Index-Feed-Specs#h_e4633fc1-3206-4ee5-a3b8-6f7735e22c7e">https://help.cuebiq.com/hc/en-us/articles/360041350092-Cuebiq-Mobility-Visit-Index-Feed-Specs#h_e4633fc1-3206-4ee5-a3b8-6f7735e22c7e</a></li>
 </p>
 </details>
 
@@ -451,13 +455,16 @@ This is just a brief summary of the data given, and what I have found to be the 
 <a href="https://www.google.com/covid19/mobility/">Google COVID-19 Community Mobility Reports</a>: See how your community is moving around differently due to COVID-19</summary>
 <p>
 
-* Detailed Description: These Community Mobility Reports aim to provide insights into what has changed in response to policies aimed at combating COVID-19. The reports chart movement trends over time by geography, across different categories of places such as retail and recreation, groceries and pharmacies, parks, transit stations, workplaces, and residential. 
-* Data Resolution: 
-* Frequency of update: 
-* Download Method: 
-  * File type: 
-* Cleaning requirements: 
-* Link: https://www.google.com/covid19/mobility/
+<ul>
+<li>Detailed Description: These Community Mobility Reports aim to provide insights into what has changed in response to policies aimed at combating COVID-19. The reports chart movement trends over time by geography, across different categories of places such as retail and recreation, groceries and pharmacies, parks, transit stations, workplaces, and residential. </li>
+<li> Data Resolution:  </li>
+<li> Frequency of update:  </li>
+<li> Download Method:  </li>
+ <ul>
+  <li> File type:  </li>
+ </ul>
+<li> Cleaning requirements:  </li>
+<li> Link: https://www.google.com/covid19/mobility/ </li>
 </p>
 </details>
 
@@ -479,7 +486,7 @@ This is just a brief summary of the data given, and what I have found to be the 
 <ul>
   <li> File type: JSON </li></ul>
 <li> Cleaning requirements: Significant </li>
-<li> Link: <a href=https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge#metadata.csv>https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge#metadata.csv></a></li>
+<li> Link: <a href="https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge#metadata.csv">https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge#metadata.csv</a></li>
 </p>
 </details>
 
