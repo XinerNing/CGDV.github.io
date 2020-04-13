@@ -255,14 +255,16 @@ To read the full report visit [geopoll.com/blog/coronavirus-africa](geopoll.com/
 <summary>
 <a href="https://www.kaggle.com/danevans/world-bank-wdi-212-health-systems">WDI Health Systems</a>: Data on the state of each countries healthcare system.</summary>
 <p>
- 
-* Detailed Description: The stated purpose for this data is "Does health spending levels (public or private), or hospital staff have any effect on the rate at which Covid-19 spreads in a country? Can we use this data to predict the rate at which Cases or Fatalities will grow?". It is only data on healthcare expenditures and the amount of healthcare available in countries throughout the world. There is not any direct COVID-19 data, but this could make good supplementary data for a question similar to one they posed as inspiration
-* Data Resolution: Global
-* Frequency of update: Every 2-3 Days
-* Download Method: Download
-  * File type: CSV
-* Cleaning requirements: Minimal
-* Link: https://www.kaggle.com/danevans/world-bank-wdi-212-health-systems
+<ul>
+
+<li> Detailed Description: The stated purpose for this data is "Does health spending levels (public or private), or hospital staff have any effect on the rate at which Covid-19 spreads in a country? Can we use this data to predict the rate at which Cases or Fatalities will grow?". It is only data on healthcare expenditures and the amount of healthcare available in countries throughout the world. There is not any direct COVID-19 data, but this could make good supplementary data for a question similar to one they posed as inspiration</li>
+<li> Data Resolution: Global</li>
+<li> Frequency of update: Every 2-3 Days </li>
+<li> Download Method: Download </li>
+<ul>
+  <li> File type: CSV </li></ul>
+<li> Cleaning requirements: Minimal </li>
+<li> Link: <a href=https://www.kaggle.com/danevans/world-bank-wdi-212-health-systems>https://www.kaggle.com/danevans/world-bank-wdi-212-health-systems</a></li>
 </p>
 </details>
 
