@@ -25,14 +25,17 @@ Contribute to the Pandemic Data Room by submitting a new data source request in 
 <summary>
 <a href="https://fraym.io/">Fraym</a>: Geospatial Data For Covid-19 Prevention and Crisis Response</summary>
 <p>
-
-* Detailed Description: The risks posed by coronavirus are especially high for millions of people who live in low-and middle-income countries, where financial, medical equipment, and health personnel resources are highly constrained. 
+<ul>
+<li> Detailed Description: The risks posed by coronavirus are especially high for millions of people who live in low-and middle-income countries, where financial, medical equipment, and health personnel resources are highly constrained. 
 To rapidly identify countries, cities and communities that exhibit the greatest risk of emergency cases and rapid transmission, Fraym provides access to relevant data layers including Emergency Case Risk Factors (Smoking prevalence, Elderly households, Body health - obesity, child stunting, child wasting) and Transmission Risk Factors (Population density, Household size, Occupation, Transportation modes, Hand Washing Practices).
-CGDV has requested the above data layers for countries including Guatemala, Kenya, Nigeria, Pakistan, Philippines, Rwanda, Senegal, and South Africa. Each folder should have a data dictionary and a citation guide for use. Download raster files with high-resolution down to 1km2 in [CGDV Google Drive](https://drive.google.com/drive/folders/14P_mzWfNmottpzMtTpCvvuT1gkotvK5p?usp=sharing ).
-* Data Resolution: Country 
-* File type: TIF File
+CGDV has requested the above data layers for countries including Guatemala, Kenya, Nigeria, Pakistan, Philippines, Rwanda, Senegal, and South Africa. Each folder should have a data dictionary and a citation guide for use. Download raster files with high-resolution down to 1km2 in <a href="https://drive.google.com/drive/folders/14P_mzWfNmottpzMtTpCvvuT1gkotvK5p?usp=sharing">CGDV Google Drive</a>. </li>
+<li> Data Resolution: Country </li>
+<li> File type: TIF File </li>
+</ul>
+
 </p>
 </details>
+
 
 <details>
 <summary>
