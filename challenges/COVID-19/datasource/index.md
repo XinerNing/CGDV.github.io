@@ -518,7 +518,7 @@ This is just a brief summary of the data given, and what I have found to be the 
 
 <details>
 <summary>
-<a href="https://www.apple.com/covid19/mobility">Apple Mobility Data - ADDED APRIL 14</a>: Change in routing requests since January 13, 2020 - added April 14</summary>
+<a href="https://www.apple.com/covid19/mobility">Apple Mobility Data</a>: Change in routing requests since January 13, 2020 - added April 14</summary>
 <p>
 <ul>
 
